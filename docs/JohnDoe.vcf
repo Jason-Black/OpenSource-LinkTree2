@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:John Doe
+ORG:Positron Sun
+TEL;TYPE=WORK,VOICE:(555) 555-5555
+EMAIL:johndoe@example.com
+PHOTO;VALUE=URI;TYPE=JPEG:https://placebear.com/220/300.jpg
+END:VCARD
